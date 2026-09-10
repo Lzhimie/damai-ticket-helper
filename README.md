@@ -6,6 +6,21 @@
 
 ---
 
+## 下载使用（推荐）
+
+无需搭建环境，直接下载即用：
+
+| 文件 | 说明 |
+|------|------|
+| [**便携版（解压即用）**](https://github.com/Lzhimie/damai-ticket-helper/releases/latest) | 含完整环境（Node+Appium+adb），约152MB，无需安装任何软件 |
+| [**源码版**](https://github.com/Lzhimie/damai-ticket-helper/releases/latest) | 仅源码，开发者自行搭环境 |
+
+便携版步骤：解压 → 手机开USB调试连电脑 → 双击 `抢票助手.exe` → 点红色「一键检测环境」→ 填配置 → 点绿色「开售秒抢」。
+
+> ⚠️ 解压时必须**完整解压整个文件夹**（env 目录是运行环境），不要只拿 exe。
+
+---
+
 ## 项目来源
 
 本项目基于 [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase) 二次开发，感谢原作者的开源贡献。
